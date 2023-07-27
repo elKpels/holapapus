@@ -1,6 +1,7 @@
 def final():
     print("Agarro mi mochila")
     print("Me subo al carro")
+    print("A chambear")
 
 print("Me levanto")
 respuesta_banho = input("¿Me bañé?: 'Y/N' ")
