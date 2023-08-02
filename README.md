@@ -1,7 +1,7 @@
 # Holapapus
 jijija
 
-## Table of Contents
+## Indice
 * [El Pepe](#el_pepe)
 * [Ya amanecio](#ya_amanecio)
 
