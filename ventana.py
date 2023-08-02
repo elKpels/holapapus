@@ -21,8 +21,19 @@ def mostrar_tilin():
     return controla
 
 def mostrar_hora(controla):
-    controla = 1
+    """
+        Hey, necesito saber si tienes otro modo de actualizar controla.
+        Lo que está pasando es que siempre que entra a esta función, controla es 1, por lo que una vez que le picas a otro botón,
+        Controla se actualiza, pero por alguna razón vuelve a esta función porque sucede un loop con el tkinter creo.
+        Necesitas tener una manera de no depender de actualizar el controla para poder cambiar de pantalla.
 
+        Una solución puede ser encontrar una manera de hacer que el loop de tkinter no entre a esta función, a menos que controla sea igual a 1.
+        La verdad es muy tedioso lidiar con tkinter.
+        En pocas palabras, no hagas que esta función dependa de una variable local, estaba probando como global pero no estaba funcionando porque
+            no se actualiza, quizás debas checar por ese rumbo.
+    """
+    controla = 1
+    
     print(controla)
     while controla == 1:
         print(controla)
