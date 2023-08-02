@@ -3,7 +3,7 @@ jijija
 
 ## Indice
 * [Codigo](#codigo)
-* [Ya amanecio](#ya_amanecio)
+* [Ya amanecio](#Ya amanecio)
 
 ## Codigo
 
