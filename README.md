@@ -3,12 +3,12 @@ jijija
 
 ## Indice
 * [Codigo](#codigo)
-* [Ya amanecio](#Ya amanecio)
+* [Ya amanecio](#yaamanecio)
 
 ## Codigo
 
 ```javascript
 console.log("noopapu");
 ```
-## Ya amanecio
+## YaAmanecio
 AHI QUE AMANECERRRRRR
