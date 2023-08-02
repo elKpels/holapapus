@@ -2,10 +2,10 @@
 jijija
 
 ## Indice
-* [El Pepe](#el_pepe)
+* [Codigo](#codigo)
 * [Ya amanecio](#ya_amanecio)
 
-## El Pepe
+## Codigo
 
 ```javascript
 console.log("noopapu");
